@@ -1,4 +1,4 @@
-![Technology GIF](https://link-to-your-uploaded-gif)
+
 
 # 👋 Hi, I'm Abdur Rahman Qasim
 
@@ -29,7 +29,7 @@ I'm a **Computer Science and Engineering** student at **Methodist College of Eng
 
  
 ### 📫 Connect With Me
-- 💌 **Email:** [abdurrahmanqasim@example.com](mailto:abdurrahmanqasim@example.com)
+- 💌 **Email:** [asadabdurrahmanqasim@gmail.com](mailto:asadabdurrahmanqasim@gmail.com)
 - 🐦 **Twitter:** [@rahmanqasim](https://twitter.com/rahmanqasim)
 - 🔗 **LinkedIn:** [Abdur Rahman Qasim](https://www.linkedin.com/in/abdurrahmanqasim)
 
