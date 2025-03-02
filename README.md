@@ -21,6 +21,12 @@ I'm a **Computer Science and Engineering** student at **Methodist College of Eng
 - **Advanced Java** (12-week plan covering OOP, Multithreading, Servlets, and more)
 - **Agile Methodologies** (Elective for next semester)
 - **Building Chatbots** using **Gemini API**
+  
+- ### 🔥 Interests
+- **Internet of Things (IoT)**
+- **Cybersecurity**
+- **App Development** (Android Studio with Kotlin)
+- **Web Development** (MERN Stack)
 
 ### 🎯 Goals for 2025
 - Improve **problem-solving** and **logic-building** skills (especially in **DSA** with Java)
