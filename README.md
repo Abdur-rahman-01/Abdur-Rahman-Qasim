@@ -1,5 +1,4 @@
-# Abdur-Rahman-Qasim
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Technology GIF](https://link-to-your-uploaded-gif)
 
 # 👋 Hi, I'm Abdur Rahman Qasim
 
@@ -9,7 +8,7 @@ I'm a **Computer Science and Engineering** student at **Methodist College of Eng
 ### 💼 What I'm Working On
 - 🔬 **Blood Bank Management System** for the **GBG Selection Challenge**
 - 📱 **Smart Irrigation System** using **NodeMCU** and **Blynk**
-- 💻 **Solutions Challenge 2025** with a team of front-end and back-end developers
+- 💻 **GDG Solutions Challenge 2025** with a team of front-end and back-end developers
 
 ### 📚 Skills
 - **Languages:** Java (Primary), Python (OOP basics), JavaScript (Beginner)
@@ -28,11 +27,7 @@ I'm a **Computer Science and Engineering** student at **Methodist College of Eng
 - Implement **AI** into my projects
 - Participate in **hackathons** and **bootcamps** (GDSC & GDG events)
 
-### 🏆 Achievements
-- **Cisco IoT Certification**: Foundations of IoT and its applications
-- **Member**: Official Anti-Cyber Bullying Group
-- **MUN Delegate**: Represented **USA** and **Zimbabwe** in MUN events
-
+ 
 ### 📫 Connect With Me
 - 💌 **Email:** [abdurrahmanqasim@example.com](mailto:abdurrahmanqasim@example.com)
 - 🐦 **Twitter:** [@rahmanqasim](https://twitter.com/rahmanqasim)
@@ -43,5 +38,5 @@ I'm a **Computer Science and Engineering** student at **Methodist College of Eng
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanqasim&layout=compact&theme=radical)
 
-### 🧠 Fun Fact
-I’m learning to **ride a bike** while managing my **college studies** and **technical projects**!
+ 
+
