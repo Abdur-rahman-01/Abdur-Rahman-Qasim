@@ -30,7 +30,7 @@ I'm a **Computer Science and Engineering** student at **Methodist College of Eng
  
 ### 📫 Connect With Me
 - 💌 **Email:** [asadabdurrahmanqasim@gmail.com](mailto:asadabdurrahmanqasim@gmail.com)
-- 🐦 **Twitter:** [@rahmanqasim](https://twitter.com/rahmanqasim)
+- 🐦 **Twitter:** [@asadabdurahmann]( https://x.com/asadabdurahmann)
 - 🔗 **LinkedIn:** [Abdur Rahman Qasim](https://www.linkedin.com/in/abdurrahmanqasim)
 
 ### 📊 GitHub Stats
