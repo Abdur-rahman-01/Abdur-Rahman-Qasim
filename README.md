@@ -40,9 +40,8 @@ I'm a **Computer Science and Engineering** student at **Methodist College of Eng
 - 🔗 **LinkedIn:** [Abdur Rahman Qasim](https://www.linkedin.com/in/abdurrahmanqasim)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdurrahmanqasim&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanqasim&layout=compact&theme=radical)
+![Abdur-Rahman-01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdur-Rahman-01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Abdur-Rahman-01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdur-Rahman-01&theme=vue-dark&hide_border=true)
 
  
 
