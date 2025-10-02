@@ -6,13 +6,13 @@
 I'm a **Computer Science and Engineering** student at **Methodist College of Engineering and Technology**, affiliated with **Osmania University**, currently in my **2nd year** with a **8.6 CGPA**. Passionate about technology and innovation, I focus on blending **IoT**, **Cybersecurity**, and **Web Development** to create impactful solutions.
 
 ### 💼 What I'm Working On
-- 🔬 **Blood Bank Management System** for the **GBG Selection Challenge**
+- 🔬 **Blood Bank Management System** for the **GDG Solution Challenge**
 - 📱 **Smart Irrigation System** using **NodeMCU** and **Blynk**
 - 💻 **GDG Solutions Challenge 2025** with a team of front-end and back-end developers
 
 ### 📚 Skills
 - **Languages:** Java (Primary), Python (OOP basics), JavaScript (Beginner)
-- **Web Development:** HTML, CSS, JavaScript (Learning landing pages)
+- **Web Development:** HTML, CSS, JavaScript , Bootsrap
 - **IoT & Hardware:** NodeMCU, Microchip MPLAB IDE
 - **Tools & Platforms:** GitHub, VS Code, Google Cloud (beginner in DevOps and Cloud)
 - **Soft Skills:** Communication, Collaboration (via MUNs and technical events)
